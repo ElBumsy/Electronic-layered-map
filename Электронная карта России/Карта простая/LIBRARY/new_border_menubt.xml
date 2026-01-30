@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="new_border_menubt" itemID="697a3c92-000002c3" lastModified="1769790866">
+  <timeline>
+    <DOMTimeline name="new_border_menubt" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="41.95" objectHeight="41.95" x="1.55" y="0.65" lockFlag="true" topLeftRadius="7.35" topRightRadius="7.35" bottomLeftRadius="7.35" bottomRightRadius="7.35">
+                  <fill>
+                    <SolidColor color="#CC0033"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMDynamicText fontRenderingMode="standard" top="-1.25" left="2.55" width="35.75" height="32" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2.6" ty="6.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Меню границ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

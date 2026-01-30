@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="About_programmbt" itemID="696a5aff-000001a0" lastModified="1768578067">
+  <timeline>
+    <DOMTimeline name="About_programmbt" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="160.4" objectHeight="31" x="1.85" y="0.9" lockFlag="true" topLeftRadius="6.95" topRightRadius="6.95" bottomLeftRadius="6.95" bottomRightRadius="6.95">
+                  <fill>
+                    <SolidColor color="#669900"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" top="-9.25" width="68.85" height="14.15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="47.5" ty="18.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>О программе</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="13.45" bitmapSize="240" face="TimesNewRomanPSMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

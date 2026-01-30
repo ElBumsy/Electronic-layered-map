@@ -1,0 +1,203 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="2007" height="1342" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 28" majorVersion="24" buildNumber="28" objectsSnapTo="false" viewAngle3D="124.472885132247" vanishingPoint3DX="1003.5" vanishingPoint3DY="671" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="FD5F6769AD43944DB15EB6A61868F7DE">
+     <symbols>
+          <Include href="слойФ_РИ.xml" loadImmediate="false" itemID="4a4f5d9f-00000286" lastModified="1250365124"/>
+          <Include href="слойФ_1.xml" loadImmediate="false" itemID="4a22f2cd-0000013c" lastModified="1254606254"/>
+          <Include href="слойФ_2.xml" loadImmediate="false" itemID="4a32db98-000007e9" lastModified="1406138530"/>
+          <Include href="слойФ_3.xml" loadImmediate="false" itemID="6967cc4b-000001bb" lastModified="1768410269"/>
+          <Include href="debug_layer.xml" loadImmediate="false" itemID="6967dbf8-0000020a" lastModified="1768414395"/>
+          <Include href="debugbt.xml" loadImmediate="false" itemID="696928f8-0000019c" lastModified="1768499448"/>
+          <Include href="debugbtclear.xml" loadImmediate="false" itemID="696929a1-000001c7" lastModified="1768499948"/>
+          <Include href="rfbtmove.xml" loadImmediate="false" itemID="69621166-000002f3" lastModified="1768034662"/>
+          <Include href="ribtmove.xml" loadImmediate="false" itemID="69621144-000002ea" lastModified="1768404576"/>
+          <Include href="sssrbtmove.xml" loadImmediate="false" itemID="69621157-000002ef" lastModified="1768034648"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="меню" color="#00FFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var _this = this;
+
+//_this.bug.on('click', function () {
+//_this.mycheckbox.on('change', function () {
+_this.ribt.on('click', function () { //работает
+	//_this.getChildByName('mysymbolname').addEventListener('click', function() {	  //работает
+	//_this.chboxbug.on('check', function () {
+	//_this.nazvanie.text = '1111111111111111';
+	//блок с видимостью символа/области работает
+	_this.Ф_РИ.visible = true; //работает
+	_this.Ф_1.visible = false; //работает
+	_this.Ф_2.visible = false; //работает
+	_this.debug.visible = false; //работает
+	//_this.pryamoug.rotation += 30;
+	console.log('Фон РИ активирован');
+});
+
+_this.sssrbt.on('click', function () { //работает
+	//_this.getChildByName('mysymbolname').addEventListener('click', function() {	  //работает
+	//_this.chboxbug.on('check', function () {
+	//_this.nazvanie.text = '1111111111111111';
+	//блок с видимостью символа/области работает
+	_this.Ф_РИ.visible = false; //работает
+	_this.Ф_1.visible = true; //работает
+	_this.Ф_2.visible = false; //работает
+	_this.debug.visible = false; //работает
+	//_this.treug.rotation += 30;
+	console.log('Фон СССР активирован');
+});
+
+_this.rfbt.on('click', function () { //работает
+	//_this.getChildByName('mysymbolname').addEventListener('click', function() {	  //работает
+	//_this.chboxbug.on('check', function () {
+	//_this.nazvanie.text = '1111111111111111';
+	//блок с видимостью символа/области работает
+	_this.Ф_РИ.visible = false; //работает
+	_this.Ф_1.visible = false; //работает
+	_this.Ф_2.visible = true; //работает
+	_this.debug.visible = false; //работает
+	//_this.treug.rotation += 30;
+	console.log('Фон РФ активирован');
+});
+
+_this.debugbt.on('click', function () { //работает
+	//_this.getChildByName('mysymbolname').addEventListener('click', function() {	  //работает
+	//_this.chboxbug.on('check', function () {
+	//_this.nazvanie.text = '1111111111111111';
+	//блок с видимостью символа/области работает
+	_this.Ф_РИ.visible = false; //работает
+	_this.Ф_1.visible = false; //работает
+	_this.Ф_2.visible = false; //работает
+	_this.debug.visible = true; //работает
+	//_this.oval.rotation += 30;
+	console.log('Фон debug активирован');
+});
+
+_this.clearbt.on('click', function () { //работает
+	//_this.getChildByName('mysymbolname').addEventListener('click', function() {	  //работает
+	//_this.chboxbug.on('check', function () {
+	//_this.nazvanie.text = '1111111111111111';
+	//блок с видимостью символа/области работает
+	_this.Ф_РИ.visible = false; //работает
+	_this.Ф_1.visible = false; //работает
+	_this.Ф_2.visible = false; //работает
+	_this.debug.visible = false; //работает
+	//_this.oval.rotation += 30;
+	console.log('Очистка фона проведена');
+});
+
+//добавить настройку интерфейса при старте приложения]]></script>
+                                   </Framescript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ribtmove" name="ribt">
+                                             <matrix>
+                                                  <Matrix tx="9.15" ty="42.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="63.45" y="30.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="sssrbtmove" name="sssrbt">
+                                             <matrix>
+                                                  <Matrix tx="144.35" ty="42.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="63.45" y="30.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="rfbtmove" name="rfbt">
+                                             <matrix>
+                                                  <Matrix tx="280.45" ty="42.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="63.45" y="30.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="debugbt" name="debugbt">
+                                             <matrix>
+                                                  <Matrix tx="9.15" ty="119.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="63.45" y="30.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="debugbtclear" name="clearbt">
+                                             <matrix>
+                                                  <Matrix tx="320.6" ty="133.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="63.45" y="30.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_РИ_Единый_розовый_фон" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_РИ" name="Ф_РИ" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_1_Единый_розовый_фон___СССР" color="#FF4FFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_1" name="Ф_1" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_2_Союз_республики_и_СНГ" color="#FF4F4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_2" name="Ф_2" selected="true" centerPoint3DX="878.75" centerPoint3DY="587.55">
+                                             <matrix>
+                                                  <Matrix d="0.999984741210938"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="878.75" y="587.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_3_тестовый" color="#00FF00" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="debug_layer" name="debug">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>
