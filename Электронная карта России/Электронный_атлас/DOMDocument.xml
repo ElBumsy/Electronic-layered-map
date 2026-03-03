@@ -1,0 +1,1176 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="2007" height="1342" currentTimeline="1" xflVersion="23.0" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 24.0 build 28" majorVersion="24" buildNumber="28" objectsSnapTo="false" viewAngle3D="124.472885132247" vanishingPoint3DX="1003.5" vanishingPoint3DY="671" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="4FE9A00EAC91CA4680817400D15AC155">
+     <folders>
+          <DOMFolderItem name="____componentassets____" itemID="698395d2-00000143"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="Физическая карта России.jpg" itemID="4a6a334e-000000c5" sourceLastImported="1248473911" quality="50" href="Физическая карта России.jpg" bitmapDataHRef="M 2 1770308936.dat" frameRight="40120" frameBottom="26860" isJPEG="true"/>
+          <DOMBitmapItem name="____componentassets____/Label" itemID="698395d2-00000181" sourceLastImported="1761169436" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/Label.png" bitmapDataHRef="M 1 1770232733.dat" frameLeft="980" frameTop="160" frameRight="1620" frameBottom="800"/>
+     </media>
+     <symbols>
+          <Include href="Город.xml" loadImmediate="false" itemID="494ff44d-0000000d" lastModified="1246712352"/>
+          <Include href="слойК_Г_РИ_1914.xml" loadImmediate="false" itemID="4ac7bdf7-00000928" lastModified="1406136045"/>
+          <Include href="слойК_Г_РФ_2009.xml" loadImmediate="false" itemID="4ac7b443-000006a1" lastModified="1406137937"/>
+          <Include href="слойК_Г_СССР_1939.xml" loadImmediate="false" itemID="4ac7b4e0-000006bc" lastModified="1406136128"/>
+          <Include href="слойК_Г_СССР_1941.xml" loadImmediate="false" itemID="4ac7b4be-000006b3" lastModified="1406136259"/>
+          <Include href="слойК_Г_СССР_1945_1991.xml" loadImmediate="false" itemID="4ac7b4a7-000006ad" lastModified="1406136315"/>
+          <Include href="слойК_ЖД_РИ.xml" loadImmediate="false" itemID="4a2418a9-000000d3" lastModified="1243879596"/>
+          <Include href="слойК_ЖД_РФ.xml" loadImmediate="false" itemID="4a32d391-0000070c" lastModified="1383586647"/>
+          <Include href="слойК_ЖД_СССР.xml" loadImmediate="false" itemID="4a2418bd-000000db" lastModified="1243879615"/>
+          <Include href="слойК_РЖД.xml" loadImmediate="false" itemID="4a32d3af-00000716" lastModified="1244844979"/>
+          <Include href="слойН_НР.xml" loadImmediate="false" itemID="4a34c126-00000117" lastModified="1770308810"/>
+          <Include href="слойН_РИ_ГГ.xml" loadImmediate="false" itemID="4a33f0ab-000000f2" lastModified="1254605089"/>
+          <Include href="слойН_РИ_Э1.xml" loadImmediate="false" itemID="4a37f68f-0000019a" lastModified="1770319163"/>
+          <Include href="слойН_РФ_ОР.xml" loadImmediate="false" itemID="4a43e2c2-00000097" lastModified="1245962948"/>
+          <Include href="слойН_РФ_ФО.xml" loadImmediate="false" itemID="4a22f3b7-00000177" lastModified="1406137546"/>
+          <Include href="слойН_СССР_ОКК.xml" loadImmediate="false" itemID="4a22f492-000001af" lastModified="1243804823"/>
+          <Include href="слойН_СССР_ЭР.xml" loadImmediate="false" itemID="4a5136bd-0000093a" lastModified="1246836414"/>
+          <Include href="слойН_СССР_1941.xml" loadImmediate="false" itemID="4a341432-00000507" lastModified="1770320878"/>
+          <Include href="слойН_СССР_1945.xml" loadImmediate="false" itemID="4a4544f3-00000506" lastModified="1248335106"/>
+          <Include href="слойН_У_Г.xml" loadImmediate="false" itemID="4a34c445-0000019d" lastModified="1251065388"/>
+          <Include href="слойФ_АД_РИ.xml" loadImmediate="false" itemID="4a340971-0000028e" lastModified="1244924277"/>
+          <Include href="слойФ_АД_РФ.xml" loadImmediate="false" itemID="4a22f279-00000127" lastModified="1406138491"/>
+          <Include href="слойФ_АД_СССР.xml" loadImmediate="false" itemID="4a22f25c-0000011f" lastModified="1243804256"/>
+          <Include href="слойФ_РИ.xml" loadImmediate="false" itemID="4a4f5d9f-00000286" lastModified="1250365124"/>
+          <Include href="слойФ_ФИЗ.xml" loadImmediate="false" itemID="4a6a3396-000000c8" lastModified="1248474006"/>
+          <Include href="слойФ_1.xml" loadImmediate="false" itemID="4a22f2cd-0000013c" lastModified="1254606254"/>
+          <Include href="слойФ_2.xml" loadImmediate="false" itemID="4a32db98-000007e9" lastModified="1406138530"/>
+          <Include href="слойФ0_МОРЕ.xml" loadImmediate="false" itemID="4a22f32f-0000015a" lastModified="1243804463"/>
+          <Include href="слойФ0_СУША.xml" loadImmediate="false" itemID="4a22f2ff-0000014e" lastModified="1243804419"/>
+          <Include href="About_programm.xml" loadImmediate="false" itemID="696a68d6-00000270" lastModified="1768848079"/>
+          <Include href="CheckBox_mc.xml" loadImmediate="false" itemID="697ce515-000001d3" lastModified="1770559368"/>
+          <Include href="CheckBoxHit_btn.xml" itemIcon="0" loadImmediate="false" itemID="697cf4e6-000001ef" lastModified="1769797733"/>
+          <Include href="karty_btn_mc.xml" loadImmediate="false" itemID="6982fa29-00000533" lastModified="1770294343"/>
+          <Include href="Label.xml" loadImmediate="false" itemID="698395d2-00000185" lastModified="1770231250"/>
+          <Include href="mov_menu_mc.xml" loadImmediate="false" itemID="697e80b5-00004042" lastModified="1770564766"/>
+          <Include href="mov_nalozheniya_fon.xml" loadImmediate="false" itemID="6981b4da-0000028b" lastModified="1770564162"/>
+          <Include href="oprogramme_bt_mc.xml" loadImmediate="false" itemID="6984e1c4-00000561" lastModified="1770316228"/>
+          <Include href="oprogramme_mc.xml" loadImmediate="false" itemID="6984e46f-00000581" lastModified="1770841722"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Меню" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[var _this = this;
+var konteiner_1_fon = new createjs.Container();
+var konteiner_2_karty = new createjs.Container();
+var konteiner_3_granitsy = new createjs.Container();
+var konteiner_4_kontury = new createjs.Container();
+var konteiner_5_goroda = new createjs.Container();
+var konteiner_6_uslovnye_oboznacheniya = new createjs.Container();
+this.stop();
+function onAppStart() {
+    getfind();   
+	bbdddf();
+	findactivelaier(_this.mov_menu.cmbox_epoha_SSSR, true);
+	konteiner_1_fon.getChildByName("Ф_1").visible=true;
+};
+function bbdddf() {
+	_this.text_nazvanie.text = 'Электронная карта России';
+	_this.getChildByName('mov_oprogramme').visible=false;
+	_this.text_nazvanie_poyasnenie.text='Панкратов С.К.';
+	for (let i = 2; i < konteiner_1_fon.children.length; i++) {
+		konteiner_1_fon.getChildAt(i).visible = false;
+	};
+	for (let i = 0; i < konteiner_2_karty.children.length; i++) {
+		konteiner_2_karty.getChildAt(i).visible = false;
+	};
+	for (let i = 0; i < konteiner_3_granitsy.children.length; i++) {
+		konteiner_3_granitsy.getChildAt(i).visible = false;
+	};
+	for (let i = 0; i < konteiner_4_kontury.children.length; i++) {
+		konteiner_4_kontury.getChildAt(i).visible = false;
+	};
+	findactivelaier(_this.mov_menu.chbox_fiz_karta, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_RI_1914, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_SSSR_1939, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_SSSR_1941, false);	
+	findactivelaier(_this.mov_menu.chbox_K_G_SSSR_1945_1991, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_RF_2009, false);
+};
+function getaccoun() {
+	if (papercode(_this.mov_menu.chbox_adm_delenie)) {
+		konteiner_1_fon.getChildByName("Ф_РИ").visible=false;
+	} else {
+		konteiner_1_fon.getChildByName("Ф_РИ").visible=true;
+	}
+}
+function digitallayer() {
+	if (papercode(_this.mov_menu.chbox_adm_delenie)) {
+		konteiner_1_fon.getChildByName("Ф_1").visible=false;
+	} else {
+		konteiner_1_fon.getChildByName("Ф_1").visible=true;
+	}
+}
+function aledeleted() {
+	if (papercode(_this.mov_menu.chbox_adm_delenie)) {
+		konteiner_1_fon.getChildByName("Ф_2").visible=false;
+	} else {
+		konteiner_1_fon.getChildByName("Ф_2").visible=true;
+	}
+}
+function bbbbb8(event) {
+	bbdddf();
+	currentcheckbox = event.currentTarget;
+	galochka = event.currentTarget.name;
+	localvarb = papercode(currentcheckbox);	
+	_this.text_nazvanie_poyasnenie.text='';
+	switch (galochka) {
+		case 'cmbox_epoha_RI' :
+			{
+				_this.text_nazvanie.text='Российская Империя';
+				getaccoun();
+				break;
+			};
+		case 'cmbox_epoha_SSSR' :
+			{
+				_this.text_nazvanie.text='Союз Советских Социалистических Республик';
+				digitallayer();
+				break;
+			};
+		case 'cmbox_epoha_RF' :
+			{
+				_this.text_nazvanie.text='Российская Федерация';
+				aledeleted();
+				break;
+		}
+	}
+};
+function findlastlaer(event) {
+	var galochka;
+	var sloy;
+	var sloy_uo;
+	var nazvanie;
+	var nazvanie_poyasnenie;
+	var localvarb;
+	var sloy_object;
+	var localvara;
+	currentcheckbox = event.currentTarget;
+	galochka = event.currentTarget.name;
+	localvarb = papercode(currentcheckbox);	
+	localvarb = !localvarb;	
+	sloy='';
+	sloy_object=null;
+	nazvanie_poyasnenie='';
+	_this.text_nazvanie_poyasnenie.text='';
+	localvara=konteiner_2_karty; 
+	switch (galochka) {
+		case 'chbox_K_G_RI_1914':
+			{
+				nazvanie = 'Граница Российской Империи в 1914г.';
+				sloy_object = 'К_Г_РИ_1914';
+				localvara = konteiner_3_granitsy;
+				break;
+			};
+		case 'chbox_K_G_SSSR_1939' :
+			{
+				nazvanie='Граница СССР в 1939г.';
+				sloy_object='К_Г_СССР_1939';
+				localvara=konteiner_3_granitsy;
+				break;
+			};
+		case 'chbox_K_G_SSSR_1941' :
+			{
+				nazvanie='Граница СССР накануне Великой Отечественной войны';
+				sloy_object='К_Г_СССР_1941';
+				localvara=konteiner_3_granitsy;
+				break;
+			};
+		case 'chbox_K_G_SSSR_1945_1991' :
+			{
+				nazvanie='Граница Советского Союза после войны';
+				sloy_object='К_Г_СССР_1945_1991';
+				localvara=konteiner_3_granitsy;
+				break;
+			};
+		case 'chbox_K_G_RF_2009' :
+			{
+				nazvanie='Современная граница России';
+				sloy_object='К_Г_РФ_2009';
+				localvara=konteiner_3_granitsy;
+				break;
+			};
+		case 'chbox_fiz_karta' :
+			{
+				nazvanie='Физическая карта России';
+				sloy_object='Ф_ФИЗ';
+				localvara=konteiner_1_fon;
+				break;
+			};
+		case 'chbox_K_ZD_RI' :
+			{
+				nazvanie='Железные дороги Российской Империи';
+				sloy_object='К_ЖД_РИ';
+				localvara=konteiner_4_kontury;
+				break;
+			};
+		case 'chbox_K_ZD_SSSR' :
+			{
+				nazvanie='Железные дороги СССР';
+				sloy_object='К_ЖД_СССР';
+				localvara=konteiner_4_kontury;
+				break;
+			};
+		case 'chbox_K_RZD' :
+			{
+				nazvanie='Российские железные дороги: прошлое и будущее';
+				sloy_object='К_РЖД';
+				localvara=konteiner_4_kontury;
+				break;
+			};		
+		case 'chbox_N_RI_E1' :
+			{
+				nazvanie='Расширение границ России до начала XX века';
+				nazvanie_poyasnenie='(учебный атлас 1910г.)';
+				sloy_object='Н_РИ_Э1';
+				break;
+			};
+		case 'chbox_N_RI_GG' :
+			{
+				nazvanie='Генерал - губернаторства';
+				sloy_object='Н_РИ_ГГ';
+				break;
+			};
+		case 'chbox_N_RI_KP_2' :
+			{
+				nazvanie='Отмена крепостного права. Размер зем. наделов.';
+				sloy_object='Н_РИ_КП_2';
+				break;
+			};
+		case 'chbox_N_SSSR_1941' :
+			{
+				nazvanie='Изменения границ перед войной (1939-1940 гг)';
+				sloy_object='Н_СССР_1941';
+				break;
+			};
+		case 'chbox_N_SSSR_OKK' :
+			{
+				nazvanie='Оккупированные территории и границы СССР в 1941-1945 гг';
+				sloy_object='Н_СССР_ОКК';
+				break;
+			};
+		case 'chbox_N_SSSR_PR1941' :
+			{
+				nazvanie='План раздела СССР в 1941 г. (III Рейх)';
+				sloy_object='Н_СССР_ПР1941';
+				break;
+			};
+		case 'chbox_N_SSSR_1945' :
+			{
+				nazvanie='Изменения границ после войны   (1945 г.)';
+				sloy_object='Н_СССР_1945';
+				break;
+			};
+		case 'chbox_N_SSSR_ER' :
+			{
+				nazvanie='Экономические районы СССР';
+				sloy_object='Н_СССР_ЭР';
+				break;
+			};		
+		case 'chbox_N_RF_FO' :
+			{
+				nazvanie='Федеральные округа РФ';
+				sloy_object='Н_РФ_ФО';
+				break;
+			};
+		case 'chbox_N_RF_OR' :
+			{
+				nazvanie='Проект объединения регионов';
+				sloy_object='Н_РФ_ОР';
+				break;
+			};
+		case 'chbox_N_U_G' :
+			{
+				nazvanie='Изменения границ Украины в XX веке';
+				sloy_object='Н_У_Г';
+				break;
+			};
+		case 'chbox_N_U_MN' :
+			{
+				nazvanie='Малороссия-Новороссия';
+				sloy_object='Н_У_МН';
+				break;
+			};
+		case 'chbox_N_U_P' :
+			{
+				nazvanie='Политический раскол регионов на Украине';
+				sloy_object='Н_У_П';
+				break;
+			};
+		case 'chbox_N_NR' :
+			{
+				nazvanie='Непризнанные республики и территориальные претензии';
+				sloy_object='Н_НР';
+				break;
+			};
+		case 'chbox_adm_delenie' :
+			{
+				nazvanie='Административное деление';
+				sloy_object='Ф_АД_РФ';
+				localvara=konteiner_1_fon;
+				break;
+			};
+			};
+	sloy=sloy_object;
+	if (galochka) {
+		_this.text_nazvanie.text=nazvanie;
+	} else {
+		text_nazvanie.text='';
+	}
+	localvara.getChildByName(sloy).visible = localvarb;
+	if (localvarb) {
+		localvara.addChild(_this.sloy_object);
+	};
+};
+function bbddff(event) {
+	findactivelaier(_this.mov_menu.chbox_ochischenie, false);
+	findactivelaier(_this.mov_menu.cmbox_epoha_RI, false);
+	findactivelaier(_this.mov_menu.cmbox_epoha_SSSR, false);
+	findactivelaier(_this.mov_menu.cmbox_epoha_RF, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_RI_1914, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_SSSR_1939, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_SSSR_1941, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_SSSR_1945_1991, false);
+	findactivelaier(_this.mov_menu.chbox_K_G_RF_2009, false);
+	findactivelaier(_this.mov_menu.chbox_adm_delenie, false);
+	findactivelaier(_this.mov_menu.chbox_fiz_karta, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_K_ZD_RI, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_K_ZD_SSSR, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_K_RZD, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_RI_E1, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_RI_GG, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_SSSR_1941, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_SSSR_OKK, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_SSSR_1945, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_SSSR_ER, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_RF_FO, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_U_G, false);
+	findactivelaier(_this.mov_nalozheniya.chbox_N_NR, false);
+	bbdddf();
+	bbbbb8(event)
+};
+function getfind() {
+	konteiner_1_fon.addChild(_this.Ф0_МОРЕ);
+	konteiner_1_fon.addChild(_this.Ф0_СУША);
+	konteiner_1_fon.addChild(_this.Ф_РИ);
+	konteiner_1_fon.addChild(_this.Ф_1);
+	konteiner_1_fon.addChild(_this.Ф_2);
+	konteiner_1_fon.addChild(_this.Ф_ФИЗ);	
+	konteiner_1_fon.addChild(_this.Ф_АД_РИ);
+	konteiner_1_fon.addChild(_this.Ф_АД_СССР);
+	konteiner_1_fon.addChild(_this.Ф_АД_РФ);
+	konteiner_3_granitsy.addChild(_this.К_Г_РИ_1914);
+	konteiner_3_granitsy.addChild(_this.К_Г_СССР_1939);
+	konteiner_3_granitsy.addChild(_this.К_Г_СССР_1941);
+	konteiner_3_granitsy.addChild(_this.К_Г_СССР_1945_1991);
+	konteiner_3_granitsy.addChild(_this.К_Г_РФ_2009);
+	konteiner_4_kontury.addChild(_this.К_ЖД_РИ);
+	konteiner_4_kontury.addChild(_this.К_ЖД_СССР);
+	konteiner_4_kontury.addChild(_this.К_ЖД_РФ);
+	konteiner_4_kontury.addChild(_this.К_РЖД);
+	konteiner_2_karty.addChild(_this.Н_РИ_Э1);
+	konteiner_2_karty.addChild(_this.Н_РИ_ГГ);
+	konteiner_2_karty.addChild(_this.Н_РИ_КП_1);
+	konteiner_2_karty.addChild(_this.Н_РИ_КП_2);
+	konteiner_2_karty.addChild(_this.Н_СССР_1941);
+	konteiner_2_karty.addChild(_this.Н_СССР_ОКК);
+	konteiner_2_karty.addChild(_this.Н_СССР_1945);
+	konteiner_2_karty.addChild(_this.Н_СССР_ЭР);
+	konteiner_2_karty.addChild(_this.Н_РФ_ФО);
+	konteiner_2_karty.addChild(_this.Н_У_Г);
+	konteiner_2_karty.addChild(_this.Н_НР);
+	_this.addChild(konteiner_1_fon);
+	_this.addChild(konteiner_2_karty);
+	_this.addChild(konteiner_3_granitsy);
+	_this.addChild(konteiner_4_kontury);
+	_this.addChild(_this.mov_nalozheniya);
+	_this.addChild(_this.mov_menu);
+	_this.addChild(_this.mov_knopka_karty_nalozheniya);
+	_this.addChild(_this.mov_knopka_oprogramme);
+	_this.addChild(_this.mov_oprogramme);	
+};
+function undeletedcount() {
+if (_this.getChildByName('mov_nalozheniya').visible) {
+		_this.getChildByName('mov_nalozheniya').visible=false;
+		_this.getChildByName('mov_menu').visible=false;
+		_this.getChildByName('mov_cccccc18').visible=false;
+	}
+	else {
+		_this.getChildByName('mov_nalozheniya').visible=true;
+		_this.getChildByName('mov_menu').visible=true;
+		_this.getChildByName('mov_cccccc18').visible=true;
+	}
+}
+function cccccc18() {
+if (_this.getChildByName('mov_oprogramme').visible) {
+		_this.getChildByName('mov_oprogramme').visible=false;			
+	}
+	else {
+		_this.getChildByName('mov_oprogramme').visible=true;			
+	}
+}
+function findactivelaier(chboxname, selected) {
+	let currentcheckbox;
+	currentcheckbox = chboxname;
+	if (selected == true) {
+		currentcheckbox.gotoAndStop(1); 
+	} else if (selected == false) {
+		currentcheckbox.gotoAndStop(0); 
+	};
+};
+function papercode(chboxname) { 
+	currentcheckboxframe = chboxname.currentFrame;
+	if (currentcheckboxframe == 1) {
+		return true;
+	} else if (currentcheckboxframe == 0) {
+		return false;
+	};
+};
+onAppStart();
+_this.mov_menu.chbox_adm_delenie.on('click', findlastlaer); 
+_this.mov_menu.cmbox_epoha_RI.on('click', bbbbb8);
+_this.mov_menu.cmbox_epoha_SSSR.on('click', bbbbb8);
+_this.mov_menu.cmbox_epoha_RF.on('click', bbbbb8);
+_this.mov_menu.chbox_fiz_karta.on('click', findlastlaer);
+_this.mov_menu.chbox_K_G_RI_1914.on('click', findlastlaer);
+_this.mov_menu.chbox_K_G_SSSR_1939.on('click', findlastlaer);
+_this.mov_menu.chbox_K_G_SSSR_1941.on('click', findlastlaer);
+_this.mov_menu.chbox_K_G_SSSR_1945_1991.on('click', findlastlaer);
+_this.mov_menu.chbox_K_G_RF_2009.on('click', findlastlaer);
+_this.mov_menu.chbox_ochischenie.on('click', bbddff);
+_this.mov_nalozheniya.chbox_K_ZD_RI.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_K_ZD_SSSR.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_K_RZD.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_RI_E1.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_RI_GG.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_SSSR_1941.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_SSSR_OKK.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_SSSR_1945.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_SSSR_ER.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_RF_FO.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_U_G.on('click', findlastlaer);
+_this.mov_nalozheniya.chbox_N_NR.on('click', findlastlaer);
+_this.mov_knopka_karty_nalozheniya.on('click', undeletedcount);
+_this.mov_knopka_oprogramme.on('click', cccccc18);]]></script>
+                                   </Framescript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="mov_menu_mc" name="mov_menu">
+                                             <matrix>
+                                                  <Matrix tx="827" ty="220.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="176.9" y="378.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="mov_nalozheniya_fon" name="mov_nalozheniya">
+                                             <matrix>
+                                                  <Matrix tx="176.05" ty="220.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="300" y="400"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="text_nazvanie" fontRenderingMode="standard" left="14.5" width="357.9" height="163.5" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="12" ty="8.1"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Тест</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="44.7" size="40" bitmapSize="800" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="karty_btn_mc" name="mov_knopka_karty_nalozheniya">
+                                             <matrix>
+                                                  <Matrix tx="827" ty="171.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="99.55" y="21.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="oprogramme_bt_mc" name="mov_knopka_oprogramme">
+                                             <matrix>
+                                                  <Matrix tx="827" ty="949.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="176.9" y="21.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="oprogramme_mc" name="mov_oprogramme">
+                                             <matrix>
+                                                  <Matrix tx="498.9" ty="1044.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="340.95" y="101.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="text_nazvanie_poyasnenie" fontRenderingMode="standard" width="331.95" height="40.2" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="42.05" ty="124.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Тест</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="39.1" size="35" bitmapSize="700" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ФОН" color="#9933CC" autoNamed="false" visible="false" open="false" layerType="folder"/>
+                    <DOMLayer name="Ф_1_Единый_розовый_фон___СССР" color="#FF4FFF" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_1" name="Ф_1" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_АД_РИ" color="#0000FF" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_АД_РИ" name="Ф_АД_РИ" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_АД_СССР" color="#4F80FF" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_АД_СССР" name="Ф_АД_СССР" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_АД_РФ" color="#4F80FF" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_АД_РФ" name="Ф_АД_РФ" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_ФИЗ_Физическая_карта" color="#4F80FF" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_ФИЗ" name="Ф_ФИЗ" selected="true" centerPoint3DX="1003" centerPoint3DY="671.5">
+                                             <transformationPoint>
+                                                  <Point x="1003" y="671.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_РИ_Единый_розовый_фон" color="#9933CC" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_РИ" name="Ф_РИ" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф_2_Союз_республики_и_СНГ" color="#FF4F4F" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ_2" name="Ф_2" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф0_СУША" color="#9933CC" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ0_СУША" name="Ф0_СУША" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Ф0_МОРЕ" color="#4FFF4F" parentLayerIndex="1" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойФ0_МОРЕ" name="Ф0_МОРЕ" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слои_блока_Сравнение" color="#669900" autoNamed="false" visible="false" open="false" layerType="folder"/>
+                    <DOMLayer name="Города_и_контуры_ЖД" color="#9933CC" autoNamed="false" visible="false" open="false" layerType="folder"/>
+                    <DOMLayer name="К_ЖД_РИ" color="#FF4FFF" parentLayerIndex="12" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_ЖД_РИ" name="К_ЖД_РИ" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="К_ЖД_СССР" color="#990033" parentLayerIndex="12" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_ЖД_СССР" name="К_ЖД_СССР" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="К_ЖД_РФ___РЖД_и_планы_строительства" color="#808080" parentLayerIndex="12" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_ЖД_РФ" name="К_ЖД_РФ" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="К_РЖД_Общая_карта" color="#FF00FF" parentLayerIndex="12" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_РЖД" name="К_РЖД" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="КОНТУРЫ_границы" color="#808080" autoNamed="false" visible="false" open="false" layerType="folder"/>
+                    <DOMLayer name="К_Г_РИ_1914" color="#FF0000" parentLayerIndex="17" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_Г_РИ_1914" name="К_Г_РИ_1914" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="К_Г_СССР_1939" color="#FF4FFF" parentLayerIndex="17" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_Г_СССР_1939" name="К_Г_СССР_1939" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="К_Г_СССР_1941" color="#FF800A" parentLayerIndex="17" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_Г_СССР_1941" name="К_Г_СССР_1941" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="К_Г_СССР_1945_1991" color="#9933CC" parentLayerIndex="17" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_Г_СССР_1945_1991" name="К_Г_СССР_1945_1991" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="К_Г_РФ_2009" color="#4F80FF" parentLayerIndex="17" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойК_Г_РФ_2009" name="К_Г_РФ_2009" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="НАЛОЖЕНИЯ_карты" color="#FF800A" autoNamed="false" visible="false" layerType="folder"/>
+                    <DOMLayer name="Российская_Империя" color="#FF4FFF" parentLayerIndex="23" autoNamed="false" visible="false" open="false" layerType="folder"/>
+                    <DOMLayer name="Н_РИ_Э1_Владычество" color="#4FFFFF" parentLayerIndex="24" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_РИ_Э1" name="Н_РИ_Э1" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Н_РИ_ГГ_Генерал_губернаторства" color="#0000FF" parentLayerIndex="24" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_РИ_ГГ" name="Н_РИ_ГГ" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Н_РИ_КП_1_Отмена_креп__права__ч_1___сколько_отрезали_земли_" color="#FF4FFF" parentLayerIndex="24" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Н_РИ_КП_2_Отмена_креп__права__ч__2___размеры_наделов_" color="#4F80FF" parentLayerIndex="24" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="СССР" color="#009999" parentLayerIndex="23" autoNamed="false" visible="false" layerType="folder"/>
+                    <DOMLayer name="Н_СССР_1941_Границы_до_войны" color="#4FFF4F" parentLayerIndex="29" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_СССР_1941" name="Н_СССР_1941" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Н_СССР_ОКК_Оккупация" color="#808080" parentLayerIndex="29" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_СССР_ОКК" name="Н_СССР_ОКК" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Н_СССР_1945_Границы_после_войны" color="#FF4FFF" parentLayerIndex="29" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_СССР_1945" name="Н_СССР_1945" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Н_СССР_ЭР_Экономические_районы" color="#4FFFFF" parentLayerIndex="29" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_СССР_ЭР" name="Н_СССР_ЭР" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Российская_Федерация" color="#FF0000" parentLayerIndex="23" autoNamed="false" visible="false" open="false" layerType="folder"/>
+                    <DOMLayer name="Н_РФ_ФО_Федеральные_округа" color="#4F80FF" parentLayerIndex="34" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_РФ_ФО" name="Н_РФ_ФО" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Н_У_Г_Формирование_границ_в_XX_веке" color="#4FFF4F" parentLayerIndex="34" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_У_Г" name="Н_У_Г" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Н_НР_Непризнанные_республики" color="#4F80FF" parentLayerIndex="34" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="слойН_НР" name="Н_НР" selected="true" centerPoint3DX="1003.5" centerPoint3DY="671">
+                                             <transformationPoint>
+                                                  <Point x="1003.5" y="671"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <swatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem color="#E3E3E3" brightness="214"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>
